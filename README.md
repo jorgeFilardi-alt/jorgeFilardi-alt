@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jorgeFilardi-alt
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning C#
+- 🌱 I’m currently learning C#, React, Typescript
 - 📫 How to reach me jorgeandresfs01@gmail.com
 
 <!---
