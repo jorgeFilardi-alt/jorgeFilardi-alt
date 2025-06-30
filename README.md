@@ -38,7 +38,6 @@ Check out my repositories to see what I'm working on! I enjoy collaborating and 
 
 ---
 
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
 
 <!---
 jorgeFilardi-alt/jorgeFilardi-alt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
