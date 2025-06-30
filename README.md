@@ -27,7 +27,7 @@ Welcome to my GitHub profile! I'm passionate about software development and alwa
 
 ## 🚀 Projects
 
-Check out my repositories to see what I'm working on! I enjoy collaborating and learning from the community.
+soon...
 
 ## 📈 GitHub Stats
 
