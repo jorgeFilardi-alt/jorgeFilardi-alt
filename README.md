@@ -35,8 +35,11 @@ soon...
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jorgeFilardi-alt&layout=compact&hide_border=true&theme=radical" />
 </p>
 
----
+## 👁️ Profile Views
 
+![Profile views](https://komarev.com/ghpvc/?username=jorgeFilardi-alt&color=blueviolet&style=flat-square)
+
+---
 
 <!---
 jorgeFilardi-alt/jorgeFilardi-alt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
