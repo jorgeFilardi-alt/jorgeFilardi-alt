@@ -9,6 +9,7 @@ Welcome to my GitHub profile! I'm passionate about software development and alwa
 - 🌱 **Currently Learning:**  
   - ![C# Badge](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
   - ![TypeScript Badge](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+  - ![JavaScript Badge](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 - 💡 **Favorite Topics:** Software engineering, web development, automation, and open source
 
 ## 📫 How to Reach Me
@@ -26,7 +27,7 @@ Welcome to my GitHub profile! I'm passionate about software development and alwa
 
 ## 🚀 Projects
 
-soon...
+A gym app where you can register your clients
 
 ## 📈 GitHub Stats
 
