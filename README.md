@@ -27,7 +27,7 @@ Welcome to my GitHub profile! I'm passionate about software development and alwa
 
 ## 🚀 Projects
 
-A gym app where you can register your clients
+...
 
 ## 📈 GitHub Stats
 
