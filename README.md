@@ -24,9 +24,9 @@ Welcome to my GitHub profile! I'm passionate about software development and alwa
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-## 🚀 Projects
+<!-- ## 🚀 Projects
 
-MiMascotaAPP (currently an app for vet)
+.... -->
 
 ## 📈 GitHub Stats
 
